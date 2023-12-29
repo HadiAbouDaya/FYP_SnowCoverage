@@ -6,7 +6,7 @@
 This repository documents our AI-driven project aimed at analyzing snow coverage. We detail our iterative process, challenges faced, and the improvements made in each iteration.
 
 ## Iterations
-### First Iteration: `FYP_SnowCoverage/AI_SnowCoveredArea/trainScfDNN.ipynb`
+### First Iteration: [`FYP_SnowCoverage/AI_SnowCoveredArea/trainScfDNN.ipynb`](https://github.com/HadiAbouDaya/FYP_SnowCoverage/blob/main/AI_SnowCoveredArea/trainScfDNN.ipynb)
 #### Data Loading
 - Systematic data loading and processing using Python and pandas.
 - Conversion of Day of Year indices to datetime format.
