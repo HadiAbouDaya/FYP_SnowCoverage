@@ -19,20 +19,20 @@ This repository documents our AI-driven project aimed at analyzing snow coverage
 - Guiding analytical strategies and feature engineering.
 - Employing statistical summaries and visualization techniques.
 
-### Second Iteration: `FYP_SnowCoverage/AI_SnowCoveredArea/trainScfSeq2Seq.ipynb`
+### Second Iteration: [`FYP_SnowCoverage/AI_SnowCoveredArea/trainScfSeq2Seq.ipynb`](https://github.com/HadiAbouDaya/FYP_SnowCoverage/blob/main/AI_SnowCoveredArea/trainScfSeq2Seq.ipynb)
 - Utilization of a more intricate LSTM architecture.
 - Continued focus on addressing data generalization challenges.
 
-### Third Iteration: `FYP_SnowCoverage/LebanonDataModeling_Prediction/trainScfLSTM_GRU.ipynb`
+### Third Iteration: [`FYP_SnowCoverage/LebanonDataModeling_Prediction/trainScfLSTM_GRU.ipynb`](https://github.com/HadiAbouDaya/FYP_SnowCoverage/blob/main/LebanonData-Modeling_Prediction/trainScfLSTM_GRU.ipynb)
 - Similar data loading and exploration as previous iterations.
 - Implementation of data imputation and interpolation techniques.
 - Application of detrending techniques for quality enhancement.
 
-### Fourth Iteration: `FYP_SnowCoverage/Pretrain_AlpsData/pretrainTS_alpsPrediction.ipynb`
+### Fourth Iteration: [`FYP_SnowCoverage/Pretrain_AlpsData/pretrainTS_alpsPrediction.ipynb`](https://github.com/HadiAbouDaya/FYP_SnowCoverage/blob/main/Pretrain_AlpsData/pretrainTS_alpsPrediction.ipynb)
 - Pretraining models on the French Alps dataset.
 - Modified LSTM architecture based on hyperparameter tuning.
 
-### Fifth Iteration: `FYP_SnowCoverage/Pretrain_AlpsData/pretrainTS_alpsPrediction.ipynb`
+### Fifth Iteration: [`FYP_SnowCoverage/LebanonData-Finetuning_Prediction/fine-tuneLbData_Prediction.ipynb`](https://github.com/HadiAbouDaya/FYP_SnowCoverage/blob/main/LebanonData-Finetuning_Prediction/fine-tuneLbData_Prediction.ipynb)
 - Adoption of a transfer learning approach.
 - Repurposing the model trained on the French Alps dataset.
 
